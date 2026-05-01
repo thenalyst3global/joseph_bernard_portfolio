@@ -102,9 +102,9 @@ Four-part technical showcase:
 
 | Resource | Description |
 |---|---|
-| 📄 [Resume / CV](assets/Joseph_Bernard_Resume.pdf) | Full professional CV with experience, skills & certifications |
-| 📊 [Power BI Dashboard](assets/BeveragesCo_dashboard.pdf) | Exported 6-page interactive dashboard (PDF) |
-| 📁 [BI Portfolio Report](assets/Beverages_Ltd_BI_Portfolio.pdf) | Full project writeup — methodology, insights & recommendations |
+| 📄 [Resume / CV](assets/images/doc/Joseph_Bernard_Resume.pdf) | Full professional CV with experience, skills & certifications |
+| 📊 [Power BI Dashboard](assets/images/doc/BeveragesCo_dashboard.pdf) | Exported 6-page interactive dashboard (PDF) |
+| 📁 [BI Portfolio Report](assets/images/doc/Beverages_Ltd_BI_Portfolio.pdf) | Full project writeup — methodology, insights & recommendations |
 
 ---
 

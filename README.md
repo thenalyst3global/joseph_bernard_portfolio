@@ -1,6 +1,6 @@
 # Joseph Bernard O. — BI & Data Analyst Portfolio
 
-> **Business Intelligence Analyst** · SQL · Power BI · DAX · Excel · Data Modelling  
+> **Business Intelligence Analyst & Data Analyst** · SQL · Power BI · DAX · Excel · Data Modelling  
 > Lagos, Nigeria · Open to Opportunities
 
 ---
